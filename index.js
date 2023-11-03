@@ -1,0 +1,1 @@
+console.log("take some time to constant:");
